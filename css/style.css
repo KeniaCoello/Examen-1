@@ -1,0 +1,124 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+#hero{
+	background-image: url("../img/bg-hero.jpg");
+	background-size: cover;
+	height: 100vh;
+    background-repeat: no-repeat !important;
+   
+}
+
+#hero h1{
+	padding-top: 150px ; 
+	font-size: 50px;
+	font-weight: 700;
+	color: #363636;
+}
+
+#hero-continue article{
+    background-color:#b9f7f9;
+    padding: 5% 10%;
+    border-radius: 5%;
+	margin-top: -5%;
+}
+
+#hero-continue .middle{
+    background-color:#d4fdfe !important;
+	margin-top: -10% !important;
+
+}
+
+.btn-primary{
+	background-color: #FFFFFF;
+	color: #363636;
+	padding: 5% 10%;
+	border: 0;
+	border-radius: 45px;
+	font-weight:700;
+} 
+.btn-secondary{
+	background-color: #3ce2ad;
+	color: #FFFFFF;
+	padding: 5% 10%;
+	border: 0;
+	border-radius: 45px;
+	font-weight:700;
+} 
+
+
+.btn-primary:hover{
+	background-color: transparent;
+	color: #363636;
+}
+#about{
+	padding: 8%;
+}
+#about .nav-tabs .active {
+    background-color: #3ce2ad;
+    color: white;
+    border: 0;
+    border-radius: 0;
+	}
+
+#department{
+	background-image: url("../img/bg-rectangle.jpg");
+	padding: 5% 10%;
+}
+ .description{
+	text-align: center;
+}
+
+#department .row{
+	background-color:#FFFFFF;
+    padding: 10% 10%;
+    border-radius: 3%;
+}
+
+#Jenna{
+	padding: 8%;
+}
+
+#Jenna img{
+	margin-top: -5%;
+}
+#offers{
+	background-image: url(../img/bg-offers.jpg);
+    background-size: cover;
+    height: 100%vh;
+    text-align: center;
+}
+#offers article{
+    background-color:#b9f7f9;
+    padding: 10px 5px;
+	margin: 10px 30px;
+    border-radius: 5%;
+}
+
+#faq{
+	padding: 10%;
+}
+
+#contact{
+	padding: 5%;
+	text-align: center;
+	background-color: #f4f4f4;
+}
+
+footer{
+	background-color: #1c1c1c;
+	padding: 5%;
+	color: #bbb;
+}
+
+footer .name{
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: -5%;
+}
+
+
+
+
+
+
